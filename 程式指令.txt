@@ -1,0 +1,9 @@
+1. html檔date的顯示格式：
+　 myDateFormat()
+　 Ex.myDateFormat(data[0].date)
+2. substring() 擷取字詞
+   Ex.var text='文學祭'
+      text.substring(0,1)-->文
+3. split(指定切割處,切割的最大數量) 切割字串
+   Ex.var text ='How are you ?'
+      split(" ",3)-->How,are,you
